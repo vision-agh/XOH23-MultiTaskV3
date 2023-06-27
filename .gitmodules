@@ -1,0 +1,3 @@
+[submodule "mt_kria"]
+	path = mt_kria
+	url = git@github.com:vision-agh/mt_kria.git

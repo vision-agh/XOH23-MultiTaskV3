@@ -4,7 +4,7 @@
 
 ![Robot image](readme_files/robot.png)
 
-Link to YouTube Video: [URL](https://www.youtube.com/watch?v=jcy8SNEq1vc)
+Link to YouTube Video: [URL](https://www.youtube.com/watch?v=3J6ZI1N3YoA)
 
 *University name:* AGH University of Krakow, Poland
 
